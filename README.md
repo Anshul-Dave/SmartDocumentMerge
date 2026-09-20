@@ -69,7 +69,7 @@ Before you begin, ensure you have:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/ahdave1573-dev/SmartDocumentMerge.git
+   git clone https://github.com/Anshul-Dave/SmartDocumentMerge.git
    cd SmartDocumentMerge
    ```
 
@@ -202,9 +202,9 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ## 👤 Author
 
 **Anshul Dave**
-- GitHub: [@ahdave1573-dev](https://github.com/ahdave1573-dev)
+- GitHub: [@Anshul-Dave](https://github.com/Anshul-Dave)
 - Email: ahdave1573@gmail.com
-- Project: [SmartDocumentMerge](https://github.com/ahdave1573-dev/SmartDocumentMerge)
+- Project: [SmartDocumentMerge](https://github.com/Anshul-Dave/SmartDocumentMerge)
 
 ## Acknowledgments
 
